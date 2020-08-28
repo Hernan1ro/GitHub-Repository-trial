@@ -7,3 +7,11 @@ body {
 #post {
   border: solid 1px red;
 }
+
+#cabecera {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: royalblue;
+  padding: 1em;
+  color: white;
+}
