@@ -15,3 +15,10 @@ body {
   padding: 1em;
   color: white;
 }
+
+footer {
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+  margin: 0;
+}
